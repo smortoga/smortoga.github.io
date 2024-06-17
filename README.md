@@ -37,10 +37,10 @@ Learned Skills:Python, Pandas, Numpy, SQL, Matplotlib, Exploratory Data analysis
 [Credential][(https://www.coursera.org/account/accomplishments/professional-cert/R4GNT3HJSBVY)]
 
 ### Python for Genomic Data Science
-[Credential][(coursera.org/verify/X6MB2XYSWAS9)]
+[Credential][(www.coursera.org/verify/X6MB2XYSWAS9)]
 
 ### Algorithms for DNA Sequencing
-[Credential][(coursera.org/verify/BME7AEYPZ9UL)]
+[Credential][(www.coursera.org/verify/BME7AEYPZ9UL)]
 
 ### Instruction in Laboratory Animal Science's (FELASA-category-B)
 Offered By Bayer Healthcare, Wuppertal , Germany.
