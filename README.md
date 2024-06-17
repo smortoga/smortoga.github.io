@@ -29,7 +29,7 @@ Research Aims:
   
 ## Certifications
 ### ‘Data Analytics and Data Science'-January 2023, Stack Fuel GmbH, Berlin.
-[Credential](https://stackfuel.com/verify/tIKT59fWPpaJ#)
+[Credential][(https://stackfuel.com/verify/tIKT59fWPpaJ#)]
 
 Learned Skills:Python, Pandas, Numpy, SQL, Matplotlib, Exploratory Data analysis, Web API, (Machine Learning-Un/Supervised learning with Sklearn, Scikit, Pyspark, SparkSQL, Keras) and Statistical analyses, Natural Language Processing (NLP)
 
