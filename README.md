@@ -34,13 +34,13 @@ Research Aims:
 Learned Skills:Python, Pandas, Numpy, SQL, Matplotlib, Exploratory Data analysis, Web API, (Machine Learning-Un/Supervised learning with Sklearn, Scikit, Pyspark, SparkSQL, Keras) and Statistical analyses, Natural Language Processing (NLP)
 
 ### Google Project Management Certificate
-[Credential][(https://www.coursera.org/account/accomplishments/professional-cert/R4GNT3HJSBVY))]
+[Credential][(https://www.coursera.org/account/accomplishments/professional-cert/R4GNT3HJSBVY)]
 
 ### Python for Genomic Data Science
-[Credential](coursera.org/verify/X6MB2XYSWAS9)
+[Credential][(coursera.org/verify/X6MB2XYSWAS9)]
 
 ### Algorithms for DNA Sequencing
-[Credential](coursera.org/verify/BME7AEYPZ9UL)
+[Credential][(coursera.org/verify/BME7AEYPZ9UL)]
 
 ### Instruction in Laboratory Animal Science's (FELASA-category-B)
 Offered By Bayer Healthcare, Wuppertal , Germany.
